@@ -1,0 +1,2 @@
+# Popcorn Vender Simulator
+My project is a popcorn vendor simulator that compares using a priority queue to a standard queue to cook customers’ orders. The basis of the project is that a popcorn vendor has opened shop, but he only has one small pot to cook popcorn with, so he can only cook one customers order at a time. The vender offers multiple types of popcorn, each of which take different amounts of time to cook, and the vender cannot begin the next customers order until the current order is fulfilled.
